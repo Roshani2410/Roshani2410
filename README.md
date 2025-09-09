@@ -1,7 +1,7 @@
 # Hi, I’m Roshani Chaudhari 👋  
 
 💻 **Frontend Developer** – HTML, CSS, JavaScript  
-🐍 **Python Enthusiast** –also interested in DSA & Problem Solving  
+🐍 **Python Programmer** –also interested in DSA & Problem Solving  
 🚀 Exploring new technologies & building projects  
 🌱 Always eager to learn and grow as a developer  
 
